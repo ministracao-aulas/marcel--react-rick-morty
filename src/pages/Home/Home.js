@@ -52,7 +52,8 @@ class Home extends Component {
         <section className="row">
           {hasLoaded && !hasError && (
             <div className="col col-12">
-              <h1>Episodes loaded!</h1>
+              <h1>Hi Maciel!</h1>
+              <h2>Episodes loaded!</h2>
             </div>
           )}
           <div className="col col-12">
